@@ -1,0 +1,51 @@
+# ============================
+# Python and Streamlit Project
+# ============================
+
+# Virtual environments
+venv/
+env/
+tfenv/
+.env/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# TensorFlow / Keras model files
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+*.tflite
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Streamlit specific
+.streamlit/
+.streamlit/secrets.toml
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.swp
+
+# System / OS generated files
+desktop.ini
+*.db
+*.DS_Store
+
+# Large datasets or external files
+data/
+datasets/
