@@ -37,7 +37,6 @@ Thumbs.db
 .streamlit/secrets.toml
 
 # IDE / Editor specific
-.vscode/
 .idea/
 *.swp
 
@@ -49,3 +48,6 @@ desktop.ini
 # Large datasets or external files
 data/
 datasets/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
